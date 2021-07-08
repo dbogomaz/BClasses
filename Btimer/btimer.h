@@ -1,4 +1,5 @@
 // Класс для измерения времени выполнения кода (тайминга)
+// https://ravesli.com/urok-129-tajming-koda-vremya-vypolneniya-programmy/
 //
 #ifndef BTIMER_H
 #define BTIMER_H
